@@ -16,7 +16,7 @@ Per scaricare il file basta andare nel tasto verde con scritto "<>Code" e andare
 Per installare il file basta andare nella cartella del gioco in steam, questa per capirci (C:\Programmi\SteamLibrary\steamapps\common\Xenonauts2\assets\assets\xenonauts\data\common\localization\locales) e incollare il file appena scaricato,
 come scritto nel punto 2. Dopo di che entrare nel gioco e inserire la lingua italiana in alto a sinistra nel menu di gioco, selezionando "Italian/Italy".
 
-Link per le donazioni:
+Link per le donazioni: <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X2RKY9S)
 
 Ringrazio tutti in anticipo.
