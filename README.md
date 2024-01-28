@@ -8,7 +8,7 @@ Semplice basta andare in "Issues" e creare la rischiesta su "new issues" con il 
 # Punto 2: Come scaricare il file?
 Per scaricare il file basta andare nel tasto verde con scritto "<>Code" e andare in "Download ZIP" per poter scaricare la cartella zip del file. dopo di che vi trovate il file all'interno della stessa casella.
 
-# Punto 2: Se voglio partecipare?
+# Punto 3: Se voglio partecipare?
 È semplice dovete iscrivervi al sito e cliccare sulla scritta in alto a adestra "fork" scaricare il file con il pulsante "clone", modificare il file e dopo di che andare su
 "add file" poi "upload file" caricare il file come indicato e inserire il titolo e la descrizione delle modifiche e il gioco è fatto. Oppure potete usare il programma di Github desktop molto facile e molto utile.
 
