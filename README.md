@@ -13,8 +13,7 @@ Per scaricare il file basta andare nel tasto verde con scritto "<>Code" e andare
 "add file" poi "upload file" caricare il file come indicato e inserire il titolo e la descrizione delle modifiche e il gioco è fatto. Oppure potete usare il programma di Github desktop molto facile e molto utile.
 
 # Punto 4: Installazione
-Per installare il file basta andare nella cartella del gioco in steam, questa per capirci (C:\Programmi\SteamLibrary\steamapps\common\Xenonauts2\assets\assets\xenonauts\data\common\localization\locales) e incollare il file appena scaricato,
-come scritto nel punto 2. Dopo di che entrare nel gioco e inserire la lingua italiana in alto a sinistra nel menu di gioco, selezionando "Italian/Italy".
+Per installare il file basta andare nella cartella del gioco in steam, questa per capirci (C:\Programmi\SteamLibrary\steamapps\common\Xenonauts2\assets\assets\xenonauts\data\common\localization\locales) e incollare il file appena scaricato quello con scritto pt-BR e sostituite quello originale. Dopo di che entrare nel gioco e inserire la lingua italiana in alto a sinistra nel menu di gioco, selezionando "Portoghese".
 
 Link per le donazioni: <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X2RKY9S)
